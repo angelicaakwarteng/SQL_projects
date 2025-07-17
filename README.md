@@ -1,2 +1,3 @@
 # sql_projects
-This portfolio is my collection of SQL projects. 
+
+This portfolio contains my collection of SQL projects. As the data field grows rapidly, working directly with databases becomes inevitable.
